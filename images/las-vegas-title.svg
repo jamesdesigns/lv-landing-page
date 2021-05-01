@@ -7,5 +7,12 @@
 	.st1{font-family:'AbrilFatface-Regular';}
 	.st2{font-size:155.9345px;}
 </style>
-<text transform="matrix(1 0 0 1 33.873 156.7166)" class="st0 st1 st2">Las Vegas</text>
+<g>
+	
+		<image style="overflow:visible;opacity:0.75;" width="727" height="209" xlink:href="C88E326C450C7DE9.png"  transform="matrix(1 0 0 1 25.3491 16)">
+	</image>
+	<g>
+		<text transform="matrix(1 0 0 1 33.873 156.7166)" class="st0 st1 st2">Las Vegas</text>
+	</g>
+</g>
 </svg>
