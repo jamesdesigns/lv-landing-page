@@ -10,6 +10,11 @@
 	padding: 0px;
 }
 
+::selection {
+	text-shadow: none;
+	background: #fed136;
+}
+
 body {
     background: #fff;
 		font-family: brandon-grotesque, sans-serif;
