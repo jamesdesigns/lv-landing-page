@@ -12,7 +12,7 @@
 
 body {
     background: #fff;
-    font-family: 'Roboto', sans-serif;
+		font-family: brandon-grotesque, sans-serif;
     font-size: 16px;
     font-weight: 300;
     color: #333333;
@@ -61,6 +61,11 @@ h4 {
 h5 {
     font-size: 18px;
     font-weight: 300;
+}
+
+.custom-font {
+	font-weight: 400;
+	font-style: normal;
 }
 
 
