@@ -4,6 +4,8 @@
 	padding: 0px;
 }
 
+.margin-top-15 { margin-top: 15px; }
+.margin-top-30 { margin-top: 30px; }
 .font-size-18 { font-size: 18px; }
 
 ::selection {
@@ -106,6 +108,8 @@ h5 {
   align-items: center;
   height: 50px;
   overflow: hidden;
+	margin-top: 20px;
+	margin-bottom: 0;
 }
 
 .navbar img {
@@ -120,7 +124,7 @@ h5 {
   display: grid;
   grid-template-columns: repeat(6,1fr);
   justify-self: end;
-  margin-top: -20px;
+	margin-top: -35px;
 }
 
 .nav-item a {
