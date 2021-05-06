@@ -4,6 +4,8 @@
 	padding: 0px;
 }
 
+.font-size-18 { font-size: 18px; }
+
 ::selection {
 	text-shadow: none;
 	background: #fed136;
@@ -40,7 +42,7 @@ a, a:hover, a:active, a:focus {
 h1,
 h2 {
 	font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
+  font-weight: 300;
 }
 
 h1 {
@@ -79,6 +81,64 @@ h5 {
 .body-custom-font-size {
 	font-size: 2.5rem;
 }
+
+/* Navigation */
+/* BASIC SETUP */
+
+.page-wrapper {
+  width: 100%;
+  height: auto;
+}
+
+.nav-wrapper {
+  width: 100%;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+
+/* NAVIGATION */
+
+.navbar {
+  display: grid;
+  grid-template-columns: 0fr 3fr;
+  align-items: center;
+  height: 50px;
+  overflow: hidden;
+}
+
+.navbar img {
+  height: 16px;
+  width: auto;
+  justify-self: start;
+  margin-left: 20px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(6,1fr);
+  justify-self: end;
+  margin-top: -20px;
+}
+
+.nav-item a {
+  color: #000;
+  font-size: 0.9rem;
+  font-weight: 400;
+  text-decoration: none;
+  transition: color 0.3s ease-out;
+}
+
+.nav-item a:hover {
+  color: #3498db;
+}
+
+
+
+
+/* End of Navigation
 
 
 /* FORM GROUPS */
