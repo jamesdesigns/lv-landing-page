@@ -87,23 +87,23 @@ h5 {
 /* Navigation */
 /* BASIC SETUP */
 
-.page-wrapper {
+/* .page-wrapper {
   width: 100%;
   height: auto;
 }
 
 .nav-wrapper {
   width: 100%;
-  position: -webkit-sticky; /* Safari */
+  position: -webkit-sticky; 
   position: sticky;
   top: 0;
   background-color: white;
 	z-index: 9999;
-}
+} */
 
 /* NAVIGATION */
 
-.navbar {
+/* .navbar {
   display: grid;
   grid-template-columns: 0fr 3fr;
   align-items: center;
@@ -143,9 +143,9 @@ h5 {
 }
 
 .nav-item .white-bg a:hover {
-	background-color: white;
+	background-color: transparent;
 }
-
+ */
 
 
 
