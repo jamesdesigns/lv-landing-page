@@ -370,7 +370,7 @@ section {
 	}
 	
 	#header .logo {
-		width: 350px;
+		width: 100%;
 	}
 	
 	#header h1 {
