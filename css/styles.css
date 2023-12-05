@@ -385,6 +385,7 @@ section {
 	
 	#header h1 {
 		/* display: none; */
+		line-height: 1;
 	}
 
 }
