@@ -382,7 +382,7 @@ section {
 	}
 	
 	#header h1 {
-		display: none;
+		/* display: none; */
 	}
 
 }
