@@ -138,6 +138,7 @@ h5 {
 	height: 57px;
 	padding-left: 18px;
 	padding-right: 18px;
+	font-size: 18px;
 	
 	-webkit-transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
@@ -414,7 +415,7 @@ section {
 
 	h5 {
 		font-size: 14px;
-		line-height: 20px;
+		line-height: 30px;
 	}
 	
 	.clocktitle{
@@ -427,6 +428,7 @@ section {
 	
 	#header .col-md-8 {
 		top: 5%;
+		height: 100vh;
 	}
 
 	#header .logo {
@@ -445,6 +447,8 @@ section {
 	p.column-on-mobile {
 		width: 70%;
 		margin: 0 auto;
+		font-size: 16px;
+    line-height: 1.5;
 	}
 }
 
